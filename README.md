@@ -20,6 +20,4 @@ Sugario is a bakery-themed website that showcases freshly baked cakes, cookies, 
 - Contact details and service options for customer trust.  
 
 🚀 Tech Stack
-- HTML, CSS, JavaScript.
-
-- 
+- HTML, CSS, JavaScript
